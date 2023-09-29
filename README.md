@@ -119,8 +119,4 @@ You can download it from [GitHub Releases](https://github.com/Fushister/MHDDoS-v
 **💰 Donation Links:**
 #### Donate Links
 
-<b>BTC</b>: <code>bc1q7dhut0fp3sqmz95kth0munte6exzlrne23jtjh</code></br>
-<b>ETH</b>: <code>0xff2fAF77705de1b842fCbA29c95E5C9e7dc266Dc</code></br>
-<b>USDT TRC20</b>: <code>TNeZtxhaYYseJoUS2LWmao6cDbYciprhKz</code></br></br>
-<b>Toman</b>: https://idpay.ir/mh-prodev</br>
-
+<b>XMR</b>: <code>472T4jqRuuRXHUTQADs8uHQbtuPFmc2v5AaN8hefVbGDPbfkDpfrvV56HcYDCcg6CzBNvErkhWkemKiekwuWtWVP7PX8zwn</code></br>
